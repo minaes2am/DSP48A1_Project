@@ -1,0 +1,62 @@
+C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_48.v {1 {vlog -work work -vopt -stats=none C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_48.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_and_mux_48bits
+
+Top level modules:
+	reg_and_mux_48bits
+
+} {} {}} C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_1bit.v {1 {vlog -work work -vopt -stats=none C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_1bit.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_and_mux_1
+
+Top level modules:
+	reg_and_mux_1
+
+} {} {}} C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_8.v {1 {vlog -work work -vopt -stats=none C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_8.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_and_mux_8bits
+
+Top level modules:
+	reg_and_mux_8bits
+
+} {} {}} C:/Users/Mina/Downloads/digital_ic_design/project_1/design.v {1 {vlog -work work -vopt -stats=none C:/Users/Mina/Downloads/digital_ic_design/project_1/design.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module circuit
+
+Top level modules:
+	circuit
+
+} {} {}} C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux.v {1 {vlog -work work -vopt -stats=none C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_and_mux_18bits
+
+Top level modules:
+	reg_and_mux_18bits
+
+} {} {}} C:/Users/Mina/Downloads/digital_ic_design/project_1/reg_mux_36.v {1 {vlog -work work -vopt -stats=none {C:\Users\Mina\Downloads\digital_ic_design\project_1\reg_mux_36.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_and_mux_36bits
+
+Top level modules:
+	reg_and_mux_36bits
+
+} {} {}} C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v {2 {vlog -work work -vopt -stats=none C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module test
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(90): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(108): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(108): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(126): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(144): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(144): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(144): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(162): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(162): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: C:/Users/Mina/Downloads/digital_ic_design/project_1/test_bench.v(162): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	test
+
+} {} {}}
